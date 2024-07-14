@@ -44,18 +44,22 @@ Follow these instructions to set up and run the project on your local machine.
 2. Navigate to the project directory:
 
     ```sh
-    cd your-repo-name
+    cd https://github.com/Dolly172/Draggable.git
     ```
 
 3. Install the dependencies:
-
+   
+    ```sh
     npm install
+    ```
 
 ### Running the Application
 
 To start the application, run:
 
+    ```sh
     npm start
+    ```
 
     This command runs the app in development mode. 
     Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
